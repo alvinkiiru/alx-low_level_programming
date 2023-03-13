@@ -9,6 +9,7 @@
  * Return: always 0 (success)
  *
  */
+
 char *str_concat(char *s1, char *s2)
 		
 {
